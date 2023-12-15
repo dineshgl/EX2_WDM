@@ -41,3 +41,17 @@ G40,high,yes,excellent,yes
 6) In that dialog box there are four modes, click on explorer.
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
+### OUTPUT:
+
+
+### Procedure for Association Rules:
+1) Open Start -> Programs -> Accessories -> Notepad
+2) Open explorer.
+3) Click on open file and select buying.arff
+4) Select Associate option on the top of the Menu bar.
+5) Select Choose button and then click on Apriori Algorithm.
+6) Click on Start button and output will be displayed on the right side of the window.
+
+### OUTPUT:
+
+### RESULT: 
