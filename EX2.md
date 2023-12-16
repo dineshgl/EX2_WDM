@@ -36,7 +36,7 @@ L20,medium,yes,fair,yes
 G40,high,yes,excellent,yes
 ```
 3) After that the file is saved with .arff file format.
-4) Minimize the arff file and then open Start  Programs  weka-3-4.
+4) Minimize the arff file and then open Start -> Programs -> weka-3-4.
 5) Click on weka-3-4, then Weka dialog box is displayed on the screen.
 6) In that dialog box there are four modes, click on explorer.
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
